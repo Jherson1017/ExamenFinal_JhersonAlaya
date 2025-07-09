@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamenFinal_JhersonAlaya", "ExamenFinal_JhersonAlaya\ExamenFinal_JhersonAlaya.csproj", "{9F5A92FF-6762-4C18-942C-DE8B70C6BD89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejecucion_JA", "Ejecucion_JA\Ejecucion_JA.csproj", "{229426C1-4A83-4C2D-B5E4-2CC874EA089F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F5A92FF-6762-4C18-942C-DE8B70C6BD89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F5A92FF-6762-4C18-942C-DE8B70C6BD89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F5A92FF-6762-4C18-942C-DE8B70C6BD89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F5A92FF-6762-4C18-942C-DE8B70C6BD89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{229426C1-4A83-4C2D-B5E4-2CC874EA089F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{229426C1-4A83-4C2D-B5E4-2CC874EA089F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{229426C1-4A83-4C2D-B5E4-2CC874EA089F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{229426C1-4A83-4C2D-B5E4-2CC874EA089F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6CEC9A4-546F-4366-BA9B-80283AD2F4FB}
+	EndGlobalSection
+EndGlobal
