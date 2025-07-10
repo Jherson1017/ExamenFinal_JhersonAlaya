@@ -13,16 +13,11 @@ namespace ExamenFinal_JhersonAlaya
         static void Main(string[] args)
         {
             Clases_JA AR = new Clases_JA();
-            AR.GenerarAlumnos();
-            AR.GeneraNotasT1();
-            Console.Clear();
-            AR.GeneraNotasT2();
-            Console.Clear();
-            AR.GeneraNotasT3();
-            Console.Clear();
-            AR.GeneraNotasEF();
-            Console.Clear();
-            AR.MostrarRegistro();
+            AR.GenerarArticulos();
+            AR.GenerarVentas();
+            AR.MostrarMatriz();
+            AR.MostrarTotalesPorArticulo();
+            AR.MostrarTotalesPorDia();
             Console.ReadKey();
         }
     }
